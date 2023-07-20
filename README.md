@@ -1,6 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Max Parks</h1>
 <h3 align="center">A passionate Full Stack Developer who loves to solve problems</h3>
+
+I am a FullStack Web and Computer Science alumni at **[App Academy](https://www.appacademy.io/)**. </br>
+
+I'm currently working as a Software Engineer Independently on a project called FitBot.
+<br>
+<br>
+
 <img align="right" alt="Coding" width="300" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc214NDFneTc4YnE5YmlubmRxOGh2MTMzdnM5d2ttNm9jaWFhZGUxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 - 🔭 I’m currently working on **FitBot**
