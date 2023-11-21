@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Max Parks</h1>
 <h3 align="center">A passionate Full Stack Developer who loves to solve problems</h3>
 
-I am a FullStack Web and Computer Science alumni at **[App Academy](https://www.appacademy.io/)**. </br>
+I am a full-stack web and computer science alumni at **[App Academy](https://www.appacademy.io/)**. </br>
 
 I'm currently working as a Software Engineer Independently on a project called FitBot.
 <br>
@@ -20,7 +20,7 @@ I'm currently working as a Software Engineer Independently on a project called F
 
 - 📫 How to reach me **maximusjparks@gmail.com**
 
-- ⚡ Fun fact **I love boxing**
+- ⚡ Fun fact: **I love boxing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
