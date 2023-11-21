@@ -10,7 +10,7 @@ I'm currently working as a Software Engineer Independently on a project called F
 
 <img align="right" alt="Coding" width="300" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc214NDFneTc4YnE5YmlubmRxOGh2MTMzdnM5d2ttNm9jaWFhZGUxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 🖥️ I’m currently employed at [App Academy](https://www.appacademy.io/)
+- 🖥️ I’m currently employed at [**App Academy**](https://www.appacademy.io/)
   
 - 🔭 I’m currently working on **FitBot**
 
