@@ -18,7 +18,7 @@ I'm currently working as a Software Engineer Independently on a project called F
 
 - 💬 Ask me about **React, Javascipt, Python, Flask, SQL, etc**
 
-- 📫 How to reach me **maximusjparks@gmail.com**
+- 📫 How to reach me **maxjparks1@gmail.com**
 
 - ⚡ Fun fact: **I love boxing**
 
